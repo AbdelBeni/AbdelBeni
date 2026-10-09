@@ -43,10 +43,9 @@ Solving technical challenges and continuously improving my skills
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-📊 GitHub Stats
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelBeni&show_icons=true&theme=tokyonight&hide_border=true)
 
-!GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelBeni&layout=compact&theme=tokyonight&hide_border=true)
 
-!Top Languages
-
-⭐ From YOUR_USERNAME
+⭐ From [YOUR_USERNAME](https://github.com/AbdelBeni)
