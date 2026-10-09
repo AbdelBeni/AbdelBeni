@@ -48,4 +48,4 @@ Solving technical challenges and continuously improving my skills
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelBeni&layout=compact&theme=tokyonight&hide_border=true)
 
-⭐ From [YOUR_USERNAME](https://github.com/AbdelBeni)
+⭐ From [AbdelBeni](https://github.com/AbdelBeni)
